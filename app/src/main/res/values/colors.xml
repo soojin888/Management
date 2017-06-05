@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //맨 위 상태바 색깔
+    <color name="colorPrimary">#DAB154</color>
+    <color name="colorPrimaryDark">#DAB154</color>
+    <color name="colorAccent">#DAB154</color>
+</resources>
+
